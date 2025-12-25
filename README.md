@@ -67,7 +67,7 @@ La arquitectura Medallion es un patrón de diseño que organiza los datos en cap
 | **SQL Server** | Motor de base de datos principal |
 | **T-SQL** | Lenguaje de consultas y transformaciones |
 | **AdventureWorks2022** | Base de datos fuente transaccional |
-| **SSIS** *(opcional)* | Herramienta ETL para automatización |
+
 
 ---
 
